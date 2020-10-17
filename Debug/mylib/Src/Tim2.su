@@ -1,0 +1,2 @@
+core_cm3.h:1511:22:__NVIC_EnableIRQ	16	static
+Tim2.c:3:6:Tim2_Init	16	static,ignoring_inline_asm
